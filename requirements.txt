@@ -1,0 +1,10 @@
+torch>=1.13
+torchvision>=0.14
+timm==0.9.7
+numpy>=1.23,<2.0
+pandas>=1.5
+opencv-python>=4.7
+scikit-learn>=1.2
+matplotlib>=3.6
+tensorboard>=2.11
+Pillow>=9.0

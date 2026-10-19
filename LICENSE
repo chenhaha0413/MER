@@ -1,0 +1,18 @@
+This repository contains code adapted from facebookresearch/mae.
+
+Copyright (c) Meta Platforms, Inc. and affiliates.
+Modifications copyright (c) the MER contributors.
+
+The code is made available under the Creative Commons
+Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0).
+The complete license terms are available at:
+
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+The upstream MAE repository is available at:
+
+https://github.com/facebookresearch/mae
+
+Files carrying a separate copyright or license notice remain subject to
+that notice. The micro-expression datasets are not included and remain
+subject to their respective licenses.
